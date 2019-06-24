@@ -1,10 +1,11 @@
-"goal" : "I heard a lot of positive reviews about the quest and the companies organizing it, so I want to get a job",
-"programming_languages" : "C++, Java, R",
-"have_a_job" : "No",
-"laptop" : "Samsung NP355V5C, Windows 10",
-"english" : "Probably B1, but I'm not sure",
-"education" : "BSU FAMCS, Informatics, second year",
-"phone_number" : "+375336572267",
-"hours_per_day" : 6,
-"age" : 21,
-"full_name" : "Vladimir Ulianitsky"
+--- 
+age: 21
+education: "BSU FAMCS, Informatics, second year"
+english: "Probably B1, but I'm not sure"
+full_name: "Vladimir Ulianitsky"
+goal: "I heard a lot of positive reviews about the quest and the companies organizing it, so I want to get a job"
+have_a_job: "No"
+hours_per_day: 6
+laptop: "Samsung NP355V5C, Windows 10"
+phone_number: "+375336572267"
+programming_languages: "C++, Java, R"
