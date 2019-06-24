@@ -1,15 +1,10 @@
-name: "Vladimir Ulianitsky"
-
-contacts:
-  telegram: "@Vladimir_Ulianitsky"
-  phone: +375336572267
-  email: "uvlad7@gmail.com"
-
-other:
-  github: "uvlad7"
-
-education:
-    specialty: "Informatics"
-    when: "2017-2021"
-    institution: "BSU"
-    faculty: "FAMCS"
+  "goal" : "I heard a lot of positive reviews about the quest and the companies organizing it, so I want to get a job",
+	"programming_languages" : "C++, Java, R",
+	"have_a_job" : "No",
+	"laptop" : "Samsung NP355V5C, Windows 10",
+	"english" : "Probably B1, but I'm not sure",
+	"education" : "BSU FAMCS, Informatics, second year",
+	"phone_number" : "+375336572267",
+	"hours_per_day" : 6,
+	"age" : 21,
+	"full_name" : "Vladimir Ulianitsky"
